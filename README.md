@@ -1,1 +1,1 @@
-Analyzing books read in 2023
+A collection of SQL files
